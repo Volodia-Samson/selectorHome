@@ -10,12 +10,13 @@ header,footer{
     border: 3px dashed blue;
 }
 
-.h{
+h1,h2,h3,h4{
     margin-left: 20px;
 }
 
 article.new{
     font-size: 24px;
+    background-color: red;
 }
 
 li.new{
